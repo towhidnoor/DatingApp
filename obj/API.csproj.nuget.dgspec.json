@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\DELL\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\DELL\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\DELL\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\DELL\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config"

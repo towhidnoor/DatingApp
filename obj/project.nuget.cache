@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AE0fBC1eYj8qkQFMPlgC9/IBkqKRy33f9+O4MBW3uL0YCiOJek5T9sK+qOQLUqrhN2I9MXynBjr+p0e8xU2yTA==",
+  "dgSpecHash": "WXA7aiRMo+hr6+I6ogY7+ayaHGGOhDkL3EIfAvSIuUw5MfD0w+CnassHvuAG0vvWuDMUc4m5qBmL8m1hKHIIhQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DELL\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\DELL\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DELL\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\DELL\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.4\\microsoft.data.sqlite.core.7.0.4.nupkg.sha512",
